@@ -1,0 +1,18 @@
+# Oficina de Gerência de Configuração de Software 🚀
+
+Este projeto foi desenvolvido como parte da atividade prática de Discovery de GCS[cite: 1].
+
+## 👥 Integrantes do Grupo
+* [Pedro Ferrari]
+* [Giovanna Silva]
+
+## 🛠️ O Sistema
+Utilizamos como estudo de caso o código de um sistema desenvolvido em aula[cite: 1]. O objetivo principal foi aplicar os conceitos de versionamento e controle de mudanças, e não o desenvolvimento do código em si[cite: 1].
+
+## ⚙️ Práticas de GCS Adotadas[cite: 1]
+Para atender aos critérios de avaliação da disciplina, estruturamos o repositório aplicando os seguintes conceitos de Gerência de Configuração[cite: 1]:
+
+* **Item de Configuração:** Organização limpa dos arquivos de código[cite: 1].
+* **Gerência de Itens:** Uso do arquivo `.gitignore` para impedir o rastreamento de arquivos locais ou temporários desnecessários.
+* **Rastreabilidade e Controle de Mudanças:** Criação de Issues para o planejamento e vinculação direta dessas tarefas aos Commits realizados[cite: 1].
+* **Histórico de Versões:** Mensagens de commit claras e organizadas de acordo com as alterações[cite: 1].
